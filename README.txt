@@ -1,0 +1,1 @@
+İngilizce dil uyumunda sıkıntı olduğu için sözlükteki bazı harfler değiştirildi. (ı ->i , ö -> o gibi)
